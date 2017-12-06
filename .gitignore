@@ -1,2 +1,8 @@
-
+#GLOBAL
 .idea/
+/.env
+/doc/
+/Makefile
+/.travis.yml
+/docker-compose.yml
+/etc/
